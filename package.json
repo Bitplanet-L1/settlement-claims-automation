@@ -1,0 +1,29 @@
+{
+  "name": "settlement-claims-automation",
+  "version": "1.0.0",
+  "description": "Automated settlement claims discovery and filing tool",
+  "main": "index.js",
+  "scripts": {
+    "scan": "node index.js scan",
+    "stats": "node index.js stats",
+    "priority": "node index.js priority",
+    "run": "node index.js run",
+    "setup": "npx playwright install chromium && echo 'Setup complete! Edit templates/user-profile.json with your info.'"
+  },
+  "keywords": [
+    "settlement",
+    "claims",
+    "automation",
+    "class-action",
+    "passive-income"
+  ],
+  "author": "NOXX_GENIE",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.16",
+    "playwright": "^1.49.1"
+  }
+}
