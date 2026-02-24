@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 [![Playwright](https://img.shields.io/badge/Playwright-1.49.1-blue.svg)](https://playwright.dev/)
+[![Sponsor](https://img.shields.io/badge/Sponsor-💰_Recurring_Revenue-ff69b4.svg)](https://github.com/sponsors/sidinflorencers9903)
 
 **Real Results:** Filed 5 claims in 52 minutes → **$472 estimated payout** 🎯
 
@@ -291,6 +292,28 @@ Run: `npx playwright install chromium`
 ## 📜 License
 
 MIT License - see [LICENSE](LICENSE) for details.
+
+---
+
+## 💖 Support This Project
+
+**This tool made you money? Help keep it running!**
+
+### Why Sponsor?
+- ⚡️ Keeps scrapers updated as settlement sites change
+- 🆕 Funds new features (OCR, mobile app, more sources)
+- 🛡️ Ensures long-term maintenance & support
+- 🎯 Priority support for sponsors
+
+### Sponsor Tiers
+
+| Tier | Price | Benefits |
+|------|-------|----------|
+| 🌱 **Supporter** | $5/mo | Help keep the scrapers running + sponsor badge |
+| 🚀 **Power User** | $10/mo | Priority feature requests + monthly settlement summary |
+| 💎 **Premium** | $25/mo | 1-on-1 setup help + custom settlement alerts + early access |
+
+**[→ Become a Sponsor](https://github.com/sponsors/sidinflorencers9903)** _(Goal: 10-20 sponsors for ongoing development)_
 
 ---
 
